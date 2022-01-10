@@ -8,6 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <b>Halal Meals</b>
+        <button>Get started</button>
+        <footer>
+          <p>App by: Sajeel Aalam</p>
+        </footer>
       </header>
     </div>
   );

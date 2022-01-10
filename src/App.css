@@ -18,3 +18,19 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+button {
+  padding: 5px 10px;
+  background-color: transparent;
+  color: white;
+  margin: 10px;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color: white;
+}
+
+footer {
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: 30px;
+}
